@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Var_Switch-Case_Ternario", "Var_Switch-Case_Ternario\Var_Switch-Case_Ternario.csproj", "{8ED889F8-0F4E-421F-980B-3667B3D946EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED889F8-0F4E-421F-980B-3667B3D946EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED889F8-0F4E-421F-980B-3667B3D946EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED889F8-0F4E-421F-980B-3667B3D946EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED889F8-0F4E-421F-980B-3667B3D946EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F21EB71-A139-4133-8BC0-F67D661A87FE}
+	EndGlobalSection
+EndGlobal
