@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\FunInterString\FunInterString\bin\Debug\netcoreapp3.1\FunInterString.exe
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\FunInterString\FunInterString\bin\Debug\netcoreapp3.1\FunInterString.deps.json
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\FunInterString\FunInterString\bin\Debug\netcoreapp3.1\FunInterString.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\FunInterString\FunInterString\bin\Debug\netcoreapp3.1\FunInterString.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\FunInterString\FunInterString\bin\Debug\netcoreapp3.1\FunInterString.dll
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\FunInterString\FunInterString\bin\Debug\netcoreapp3.1\FunInterString.pdb
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\FunInterString\FunInterString\obj\Debug\netcoreapp3.1\FunInterString.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\FunInterString\FunInterString\obj\Debug\netcoreapp3.1\FunInterString.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\FunInterString\FunInterString\obj\Debug\netcoreapp3.1\FunInterString.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\FunInterString\FunInterString\obj\Debug\netcoreapp3.1\FunInterString.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\FunInterString\FunInterString\obj\Debug\netcoreapp3.1\FunInterString.dll
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\FunInterString\FunInterString\obj\Debug\netcoreapp3.1\FunInterString.pdb
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\FunInterString\FunInterString\obj\Debug\netcoreapp3.1\FunInterString.genruntimeconfig.cache
