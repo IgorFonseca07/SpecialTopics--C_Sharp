@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Var_Switch-Case_Ternario/1.0.0": {
+        "runtime": {
+          "Var_Switch-Case_Ternario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Var_Switch-Case_Ternario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

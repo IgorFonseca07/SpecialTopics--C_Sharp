@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\Var_Switch-Case_Ternario\Var_Switch-Case_Ternario\bin\Debug\netcoreapp3.1\Var_Switch-Case_Ternario.exe
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\Var_Switch-Case_Ternario\Var_Switch-Case_Ternario\bin\Debug\netcoreapp3.1\Var_Switch-Case_Ternario.deps.json
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\Var_Switch-Case_Ternario\Var_Switch-Case_Ternario\bin\Debug\netcoreapp3.1\Var_Switch-Case_Ternario.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\Var_Switch-Case_Ternario\Var_Switch-Case_Ternario\bin\Debug\netcoreapp3.1\Var_Switch-Case_Ternario.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\Var_Switch-Case_Ternario\Var_Switch-Case_Ternario\bin\Debug\netcoreapp3.1\Var_Switch-Case_Ternario.dll
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\Var_Switch-Case_Ternario\Var_Switch-Case_Ternario\bin\Debug\netcoreapp3.1\Var_Switch-Case_Ternario.pdb
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\Var_Switch-Case_Ternario\Var_Switch-Case_Ternario\obj\Debug\netcoreapp3.1\Var_Switch-Case_Ternario.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\Var_Switch-Case_Ternario\Var_Switch-Case_Ternario\obj\Debug\netcoreapp3.1\Var_Switch-Case_Ternario.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\Var_Switch-Case_Ternario\Var_Switch-Case_Ternario\obj\Debug\netcoreapp3.1\Var_Switch-Case_Ternario.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\Var_Switch-Case_Ternario\Var_Switch-Case_Ternario\obj\Debug\netcoreapp3.1\Var_Switch-Case_Ternario.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\Var_Switch-Case_Ternario\Var_Switch-Case_Ternario\obj\Debug\netcoreapp3.1\Var_Switch-Case_Ternario.dll
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\Var_Switch-Case_Ternario\Var_Switch-Case_Ternario\obj\Debug\netcoreapp3.1\Var_Switch-Case_Ternario.pdb
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\Var_Switch-Case_Ternario\Var_Switch-Case_Ternario\obj\Debug\netcoreapp3.1\Var_Switch-Case_Ternario.genruntimeconfig.cache
