@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\3-DateTime\3-DateTime\bin\Debug\netcoreapp3.1\3-DateTime.exe
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\3-DateTime\3-DateTime\bin\Debug\netcoreapp3.1\3-DateTime.deps.json
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\3-DateTime\3-DateTime\bin\Debug\netcoreapp3.1\3-DateTime.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\3-DateTime\3-DateTime\bin\Debug\netcoreapp3.1\3-DateTime.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\3-DateTime\3-DateTime\bin\Debug\netcoreapp3.1\3-DateTime.dll
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\3-DateTime\3-DateTime\bin\Debug\netcoreapp3.1\3-DateTime.pdb
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\3-DateTime\3-DateTime\obj\Debug\netcoreapp3.1\3-DateTime.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\3-DateTime\3-DateTime\obj\Debug\netcoreapp3.1\3-DateTime.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\3-DateTime\3-DateTime\obj\Debug\netcoreapp3.1\3-DateTime.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\3-DateTime\3-DateTime\obj\Debug\netcoreapp3.1\3-DateTime.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\3-DateTime\3-DateTime\obj\Debug\netcoreapp3.1\3-DateTime.dll
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\3-DateTime\3-DateTime\obj\Debug\netcoreapp3.1\3-DateTime.pdb
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\3-DateTime\3-DateTime\obj\Debug\netcoreapp3.1\3-DateTime.genruntimeconfig.cache
