@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\4-TimeSpan\4-TimeSpan\bin\Debug\netcoreapp3.1\4-TimeSpan.exe
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\4-TimeSpan\4-TimeSpan\bin\Debug\netcoreapp3.1\4-TimeSpan.deps.json
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\4-TimeSpan\4-TimeSpan\bin\Debug\netcoreapp3.1\4-TimeSpan.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\4-TimeSpan\4-TimeSpan\bin\Debug\netcoreapp3.1\4-TimeSpan.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\4-TimeSpan\4-TimeSpan\bin\Debug\netcoreapp3.1\4-TimeSpan.dll
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\4-TimeSpan\4-TimeSpan\bin\Debug\netcoreapp3.1\4-TimeSpan.pdb
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\4-TimeSpan\4-TimeSpan\obj\Debug\netcoreapp3.1\4-TimeSpan.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\4-TimeSpan\4-TimeSpan\obj\Debug\netcoreapp3.1\4-TimeSpan.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\4-TimeSpan\4-TimeSpan\obj\Debug\netcoreapp3.1\4-TimeSpan.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\4-TimeSpan\4-TimeSpan\obj\Debug\netcoreapp3.1\4-TimeSpan.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\4-TimeSpan\4-TimeSpan\obj\Debug\netcoreapp3.1\4-TimeSpan.dll
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\4-TimeSpan\4-TimeSpan\obj\Debug\netcoreapp3.1\4-TimeSpan.pdb
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\4-TimeSpan\4-TimeSpan\obj\Debug\netcoreapp3.1\4-TimeSpan.genruntimeconfig.cache
