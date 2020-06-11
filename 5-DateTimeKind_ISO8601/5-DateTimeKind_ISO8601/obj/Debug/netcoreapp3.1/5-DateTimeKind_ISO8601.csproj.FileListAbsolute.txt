@@ -1,0 +1,13 @@
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\5-DateTimeKind_ISO8601\5-DateTimeKind_ISO8601\bin\Debug\netcoreapp3.1\5-DateTimeKind_ISO8601.exe
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\5-DateTimeKind_ISO8601\5-DateTimeKind_ISO8601\bin\Debug\netcoreapp3.1\5-DateTimeKind_ISO8601.deps.json
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\5-DateTimeKind_ISO8601\5-DateTimeKind_ISO8601\bin\Debug\netcoreapp3.1\5-DateTimeKind_ISO8601.runtimeconfig.json
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\5-DateTimeKind_ISO8601\5-DateTimeKind_ISO8601\bin\Debug\netcoreapp3.1\5-DateTimeKind_ISO8601.runtimeconfig.dev.json
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\5-DateTimeKind_ISO8601\5-DateTimeKind_ISO8601\bin\Debug\netcoreapp3.1\5-DateTimeKind_ISO8601.dll
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\5-DateTimeKind_ISO8601\5-DateTimeKind_ISO8601\bin\Debug\netcoreapp3.1\5-DateTimeKind_ISO8601.pdb
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\5-DateTimeKind_ISO8601\5-DateTimeKind_ISO8601\obj\Debug\netcoreapp3.1\5-DateTimeKind_ISO8601.csprojAssemblyReference.cache
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\5-DateTimeKind_ISO8601\5-DateTimeKind_ISO8601\obj\Debug\netcoreapp3.1\5-DateTimeKind_ISO8601.AssemblyInfoInputs.cache
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\5-DateTimeKind_ISO8601\5-DateTimeKind_ISO8601\obj\Debug\netcoreapp3.1\5-DateTimeKind_ISO8601.AssemblyInfo.cs
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\5-DateTimeKind_ISO8601\5-DateTimeKind_ISO8601\obj\Debug\netcoreapp3.1\5-DateTimeKind_ISO8601.csproj.CoreCompileInputs.cache
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\5-DateTimeKind_ISO8601\5-DateTimeKind_ISO8601\obj\Debug\netcoreapp3.1\5-DateTimeKind_ISO8601.dll
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\5-DateTimeKind_ISO8601\5-DateTimeKind_ISO8601\obj\Debug\netcoreapp3.1\5-DateTimeKind_ISO8601.pdb
+D:\Documents\CursoC#_Udemy\SpecialTopics--C_Sharp\5-DateTimeKind_ISO8601\5-DateTimeKind_ISO8601\obj\Debug\netcoreapp3.1\5-DateTimeKind_ISO8601.genruntimeconfig.cache
